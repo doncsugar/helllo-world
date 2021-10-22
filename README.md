@@ -1,5 +1,2 @@
 # helllo-world
-The very first repository.
-
-The fundamentals of Java and Python.
-When do I get paid for my nothing?
+The very first repository. What could go wrong?
